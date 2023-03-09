@@ -3,9 +3,9 @@ Altura = float(input('Entre com a Altura do Triangulo: '))
 Base = float(input('Entre com a Base do Triangulo: '))
 # ______________________________________________________ #
 
-# ____________Multiplicação____________ #
-Multi = Altura * Base
-print(Multi)
-Area = Multi / 2
-print(Area)
+
+# __________Área do Triângulo__________ #
+Calculo = Altura * Base
+Area = Calculo / 2
+print("A área do Triângulo é: ", + Area)
 # _____________________________________ #
