@@ -4,7 +4,7 @@ Tabuada = int(input("Insira o Número da Tabuada que você deseja: "))
 
 # Estrutura de Repetições - Loops #
 for i in range(0, 11):
-  print(Tabuada, "x", i, "=", Tabuada * i)
+  print(Tabuada, "X", i, "=", Tabuada * i)
 
 # O for é uma váriavel utilizada para o uso de repetições. #
 # O in retorna True caso o valor seja encontrado na sequência. #
