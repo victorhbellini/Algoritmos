@@ -8,5 +8,5 @@ Altura = float(input("Insira a Altura do Trapézio: "))
 # __________Área do Trapézio__________ #
 Calculo = BaseMaior + BaseMenor * Altura
 Area = Calculo / 2
-print("A área do Trapézio é: ", + Area)
+print("A área do Trapézio é: " + Area)
 # ____________________________________ #
