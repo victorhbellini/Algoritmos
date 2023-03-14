@@ -7,5 +7,5 @@ Base = float(input('Entre com a Base do Triangulo: '))
 # __________Área do Triângulo__________ #
 Calculo = Altura * Base
 Area = Calculo / 2
-print('A área do Triângulo é: ' + Area)
+print('A área do Triângulo é: ' + str(Area))
 # _____________________________________ #
